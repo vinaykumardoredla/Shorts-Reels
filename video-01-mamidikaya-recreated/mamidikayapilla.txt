@@ -1,7 +1,92 @@
-"ఈ వీడియో ఆధారంగా డైలాగ్ ఓరియెంటెడ్ వీడియో జనరేషన్ ప్రాంప్ట్ తయారుచేసి ఇవ్వు.
+# 🎬 AI Video Prompts (మామిడికాయ పాప కామెడీ)
+
+---
+
+## 1️⃣ STEP 1: కొత్త వీడియోల నుండి ప్రాంప్ట్ రాయడానికి (Prompt Extractor)
+> **వివరణ:** ఏదైనా ఒక వీడియో నుండి డైలాగ్స్ మరియు విజువల్స్ ఆధారంగా ప్రాంప్ట్ తయారుచేయడానికి AI (ChatGPT, Gemini, etc.) లో ఈ కింది టెక్స్ట్‌ని ఉపయోగించండి.
+
+```text
+ఈ వీడియో ఆధారంగా డైలాగ్ ఓరియెంటెడ్ వీడియో జనరేషన్ ప్రాంప్ట్ తయారుచేసి ఇవ్వు.
 
 కావాల్సిన ఫార్మాట్ (Format):
-
 Visual & Animation Style: వీడియో యొక్క యానిమేషన్ శైలి, క్యారెక్టర్ మరియు బ్యాక్‌గ్రౌండ్ వివరాలు.
 Dialogue & Actions Playlist: ఏ ఏ డైలాగ్స్ ఉన్నాయి? ఆ డైలాగ్స్ చెప్పేటప్పుడు సబ్జెక్ట్ (క్యారెక్టర్) ఏం చేస్తుంది అనే విజువల్ యాక్షన్స్ (ఇంగ్లీష్ ప్రాంప్ట్ రూపంలో).
-[ఇక్కడ మీ వీడియో ఫైల్ / లింక్ జతచేయండి]"
+
+[ఇక్కడ మీ వీడియో ఫైల్ / లింక్ జతచేయండి]
+```
+
+---
+
+## 2️⃣ Character & Background Style (క్యారెక్టర్ మరియు బ్యాక్‌గ్రౌండ్ వివరాలు)
+> **వివరణ:** క్యారెక్టర్లు మరియు లొకేషన్లు వీడియో అంతటా ఒకేలా కనిపించడానికి ఈ వివరాలు ఉపయోగపడతాయి.
+
+*   **Animation Style:** 3D Pixar/Disney style, Vibrant colors, Expressive and exaggerated facial expressions, Smooth animation.
+*   **Little Girl (పాప):** 4-5 years old, pig-tails/braids with red rubber bands, yellow sleeveless dress, brown slippers. Excitable and active.
+*   **Rooster (కోడి పుంజు):** Funny cartoon rooster, red comb, black and orange feathers, big funny eyes.
+*   **Background (లొకేషన్):** Lush green backyard, cozy house tiled roof, mango tree with green mangoes, wicker basket on grass.
+
+---
+
+## 3️⃣ PART 1: Video Generation 1 (మొదటి 10 సెకన్ల వీడియో - సీన్స్ 1 to 4)
+> **వివరణ:** AI టూల్స్ 10 సెకన్లు మాత్రమే జనరేట్ చేయగలవు కాబట్టి మొదటి వీడియో కోసం కింద ఉన్న ప్రాంప్ట్స్ వాడండి.
+
+*   **సీన్ 1 (డైలాగ్: "మామిడికాయ!")**
+    ```text
+    3D Pixar style animation, close-up shot of a cute little girl with pig-tails in a yellow dress, enthusiastically reaching up to pluck a green mango from a low-hanging branch of a mango tree, she has an excited expression on her face, sunlit green garden background, vibrant colors, highly detailed.
+    ```
+
+*   **సీన్ 2 (డైలాగ్: "మామిడికాయ.")**
+    ```text
+    3D Pixar style animation, medium shot of the little girl cradling the freshly plucked green mango in her hands close to her chest, she has a wide, happy giggle and eyes closed with pure joy, next to her is a funny cartoon rooster looking curious, cheerful and warm atmosphere.
+    ```
+
+*   **సీన్ 3 (డైలాగ్: "కోద్దాం,")**
+    ```text
+    3D Pixar style animation, close-up shot of hands using a small knife to slice a fresh green mango into thick pieces on a rustic wooden cutting board, exposing the juicy yellow-orange interior, outdoor garden setting, high-detail texture.
+    ```
+
+*   **సీన్ 4 (డైలాగ్: "ఉప్పేద్దాం కారమేద్దాం,")**
+    ```text
+    3D Pixar style animation, close-up shot of the little girl's hands dynamically sprinkling white salt and vibrant red chili powder onto the mango slices, her face is partially visible in the background with a mischievous, excited grin, cinematic lighting.
+    ```
+
+---
+
+## 4️⃣ PART 2: Video Generation 2 (తర్వాతి 10 సెకన్ల వీడియో - సీన్స్ 5 to 9)
+> **వివరణ:** రెండవ వీడియోని జనరేట్ చేయడానికి కింద ఉన్న ప్రాంప్ట్స్ వాడండి.
+
+*   **సీన్ 5 (డైలాగ్: "తినేయ్!")**
+    ```text
+    3D Pixar style animation, medium close-up of the little girl holding a mango slice covered in chili powder, taking a big bite, then instantly making a funny, extremely sour and tangy face, squeezing her eyes shut, and shaking her head, comical expression.
+    ```
+
+*   **సీన్ 6 (డైలాగ్: "డుబ్బు ఉయ్ ఒయ్ ఏయ్")**
+    ```text
+    3D Pixar style animation, medium shot of the little girl doing a funny and cute celebratory dance in the garden, shaking her shoulders and hips, laughing happily with an open-mouth smile, sunny background, fluid cartoon motion.
+    ```
+
+*   **సీన్ 7 (డైలాగ్: "ఏముంది కోడి మొండ తినవే")**
+    ```text
+    3D Pixar style animation, medium shot of the little girl offering a spicy mango slice to the funny cartoon rooster. The rooster takes a bite and its eyes instantly pop wide open in shock and spice, its wings flapping in surprise as the girl watches with a grin.
+    ```
+
+*   **సీన్ 8 (డైలాగ్: "హహహ")**
+    ```text
+    3D Pixar style animation, the little girl pointing at the shocked rooster and laughing hysterically, bending forward, while the rooster stands in the background looking dizzy and overwhelmed by the spicy taste, comical scene.
+    ```
+
+*   **సీన్ 9 (డైలాగ్: "చిటికెలతో లైక్ వేసుకో")**
+    ```text
+    3D Pixar style animation, the little girl standing next to the cartoon rooster, looking directly at the camera, snapping her fingers with a charming smile and a wink, inviting the audience to like, cute and engaging outro scene.
+    ```
+
+---
+
+## 5️⃣ OPTIONAL: వాటర్ మార్క్ లేకుండా వీడియో చేయడం (Avoid Watermark)
+> **వివరణ:** AI టూల్స్ వేసే వాటర్ మార్క్ ని క్రాప్ చేసి తీసేయడానికి, పైన ఉన్న ప్రతి ప్రాంప్ట్ కి **మొదటి వాక్యంగా (First sentence)** కింద ఉన్న టెక్స్ట్ జోడించండి.
+
+```text
+Create a 9:16 vertical portrait video layout with a solid white background using a Split-Screen Letterbox design. The layout is divided into two main sections:
+1. A video viewport at the top occupying 80% of the total height. It should be a full-bleed video display with no padding or margins, bordered at the bottom by a thin 3px solid black line. 
+2. A static footer at the bottom occupying 20% of the total height with a solid white background. At the absolute center of this footer, place the uppercase text 'DIRECTED BY' in black, styled in a clean, modern, bold sans-serif font.
+```
