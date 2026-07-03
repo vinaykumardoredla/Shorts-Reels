@@ -73,6 +73,14 @@ English Prompt:
 
 [ VIDEO GENERATION 2 (NEXT 10 SECONDS) ]
 
+[ CHARACTER & BACKGROUND STYLE ]
+
+- Animation Style: 3D Pixar/Disney style, Vibrant colors, Expressive and exaggerated facial expressions, Smooth animation.
+- Character Details:
+  * Little Girl: 4-5 years old, pig-tails/braids with red rubber bands, yellow sleeveless dress, brown slippers. Excitable and active.
+  * Rooster: Funny cartoon rooster, red comb, black and orange feathers, big funny eyes.
+- Background Details: Lush green backyard, cozy house tiled roof, mango tree with green mangoes, wicker basket on grass.
+
 
 [ Scene 5 ]
 
